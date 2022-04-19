@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**boram-han/boram-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **boram-han/boram-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
